@@ -1,6 +1,10 @@
 {
   "versions": [
     {
+      "name": "Versi 2.5.0",
+      "downloadUrl": "https://github.com/adryan-lakes/millehub-website-2-json-version/releases/download/2.0.0/pos-v2.0.0.exe"
+    },
+    {
       "name": "Versi 2.0.0",
       "downloadUrl": "https://github.com/adryan-lakes/millehub-website-2-json-version/releases/download/2.0.0/pos-v2.0.0.exe"
     },
@@ -13,5 +17,4 @@
       "downloadUrl": "https://github.com/adryan-lakes/millehub-website-2-json-version/releases/download/1.10.6/pos-1.10.6.exe"
     }
   ]
-
 }
